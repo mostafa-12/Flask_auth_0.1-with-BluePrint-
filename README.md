@@ -17,28 +17,6 @@ This project is a simple web application built with **Flask**, featuring user au
 
 ---
 
-## 🗂 Project Structure
-
-```
-
-Flask_auth_0.1/
-│
-├─ app/
-│  ├─ **init**.py       # App initialization, DB and Bcrypt setup
-│  ├─ models.py         # Database models
-│  ├─ main/             # Main Blueprint
-│  │  ├─ routes.py      # Main routes
-│  │  └─ forms.py       # Web forms
-│  └─ templates/        # HTML templates
-│
-├─ venv/                # Virtual environment (optional)
-├─ requirements.txt     # Required libraries
-└─ run.py               # App entry point
-
-````
-
----
-
 ## ⚙️ Requirements
 
 - Python 3.10+
